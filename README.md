@@ -15,7 +15,7 @@ https://fasta.bioch.virginia.edu/wrpearson/fasta/fasta_guide.pdf
 
 4. **GLSEARCH**: Similar to **GGSEARCH**, **GLSEARCH** also performs a global alignment search. However, it uses a global query against a local database. This approach is helpful for identifying related sequences within a specific subset of the database.
 
-In summary, **GGSEARCH** is a global alignment method within the FASTA suite, allowing you to search for more distant homologs across protein databases. If you have any other questions or need further clarification, feel free to ask! 😊
+In summary, **GGSEARCH** is a global alignment method within the FASTA suite, allowing you to search for more distant homologs across protein databases. 
 
 For more details, you can explore the [EMBL-EBI FASTA Protein Similarity Search](https://www.ebi.ac.uk/Tools/sss/fasta/index.html) page¹.²
 
