@@ -5,4 +5,4 @@ grep hypothetical dp-proteome.faa >hypo.faa
 grep '>' dp-proteome.faa| grep -v 'hypothetical'>conserved.faa
 
 # sequence alignment
-fasta36 -m 8CC seq/mgstm1.nt seq/gst.nlib
+fasta36 -m 8CC seq/mgstm1.nt seq/gst.nlib > output.txt
