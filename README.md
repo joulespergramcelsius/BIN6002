@@ -1,6 +1,11 @@
 # BIN6002 - Proteomics project
 *basics.sh* contains shell scripts for some simple actions.
 
+## FASTA (.faa) Files processing
+
+*fitler-conserved.pl* filters out conserved protein sequences from the induced proteins
+
+*filter-hypo.pl* filters out hypothetical protein sequences from the induced proteins
 ## FASTA Documentation
 https://fasta.bioch.virginia.edu/wrpearson/fasta/fasta_guide.pdf
 
